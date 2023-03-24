@@ -1,2 +1,2 @@
 # Online-Hospital-Management-System
-Backend- Spring, Spring Data JPA, Microservices, Eureka, MySQL, MongoDB, JWT Auth || Frontend - React, HTML, CSS, Bootstrap, NPM, AXIOS, JSON
+The Project Hospital Management System includes day to day operations and management of hospital activities. We Implement Spring security JWT auth, User validation handling, exception handling, Role based auth, Pagination for Backend. For Frontend we use React.js, Bootstrap, Html, NPM and JSON format for data transferring. We use MySQL database. Also use Docker for deployment of project, AWS used for host project on server and Git and Jira used in daily activities of project phase.
